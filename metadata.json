@@ -1,0 +1,6 @@
+{
+  "name": "和運暦 - 四柱推命と陰陽五行の日運占い",
+  "description": "生年月日から算出する四柱推命（年・月・日柱）と五行色体表の体質診断を融合した、高級和風デザインの日運・開運アドバイスアプリ。日・英バイリンガル完全対応。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
